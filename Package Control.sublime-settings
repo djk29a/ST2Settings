@@ -1,0 +1,34 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AMDtools",
+		"Auto Semi-Colon",
+		"Backbone.js",
+		"CoffeeScript",
+		"DetectSyntax",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"FileDiffs",
+		"FileSystem Autocompletion",
+		"HTML5",
+		"Indent XML",
+		"jQuery",
+		"MacTerminal",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"PythonTidy",
+		"Search in Browser",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Tag",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets",
+		"View In Browser",
+		"VintageEx",
+		"Whitespace Corrector"
+	]
+}
